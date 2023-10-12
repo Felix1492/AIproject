@@ -1,2 +1,3 @@
 pyttsx3
 SpeechRecognition
+# Additional libraries will be added here as needed.
