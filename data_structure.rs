@@ -20,6 +20,10 @@ use python_integration::*;
 mod concurrency;
 use concurrency::*;
 
+// Add the code for the model inference
+mod model_inference;
+use model_inference::*;
+
 // Define the complex data structure here
 struct DataStructure {
     // Define the fields of the data structure here
