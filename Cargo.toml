@@ -1,12 +1,8 @@
 [package]
-name = "my_project"
+name = "speech_project"
 version = "0.1.0"
-edition = "2021"
+edition = "2018"
 
 [dependencies]
-onnxruntime = "0.0.22"
-tch = "0.3.1"
-tract-onnx = "0.11.2"
-linfa = "0.4.0"
-forustm = "0.1.1"
-smartcore = "0.2.0"
+whisper = "0.1.0" # Replace with the actual version
+tts = "0.25.6" # Replace with the actual version
